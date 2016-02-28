@@ -1,0 +1,27 @@
+_repo: Squirrels-and-Other-Fur-Bearers_24388
+creator:
+  author:
+    agent_name: Burroughs, John
+    birthdate: 1837
+    deathdate: 1921
+    gutenberg_agent_id: '1127'
+    url: http://www.gutenberg.org/2009/agents/1127
+    wikipedia: http://en.wikipedia.org/wiki/John_Burroughs
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animals-Wild
+gutenberg_issued: '2008-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24388'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animal behavior'
+- !lcsh 'Mammals'
+- !lcc 'QL'
+title: Squirrels and Other Fur-Bearers
+url: http://www.gutenberg.org/ebooks/24388
