@@ -1,4 +1,8 @@
 _repo: Squirrels-and-Other-Fur-Bearers_24388
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24388-h/images/fcover-alt.jpg
 creator:
   author:
     agent_name: Burroughs, John
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1127
     wikipedia: http://en.wikipedia.org/wiki/John_Burroughs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24388#Squirrels-and-Other-Fur-Bearers
 gutenberg_bookshelf:
 - Animals-Wild-Mammals
 - Animals-Wild
